@@ -1,2 +1,2 @@
 # My-Codes
-I'm saving the codes that I practiced from online problems. All codes in C++.
+These codes are for various online coding practice problems. Trying to keep practice on the algorithms and data structrues.
